@@ -5,7 +5,7 @@ public class rbi {
 	String rateofinterest;
 	public void rateofinterest() {
 		// TODO Auto-generated method stub
-		return;
+		//return rateofinterest;
 	}
 	
 }

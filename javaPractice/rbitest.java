@@ -5,7 +5,7 @@ public class rbitest {
 		// TODO Auto-generated method stub
        rbi r;
        r=new sbi();
-    	  System.out.println(rbi.rateofinterest());
+    	 // System.out.println(rbi.rateofinterest());
        
 	}
 
